@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Roteiro-viagem-reactnative",
+    "slug": "Roteiro-viagem-reactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
